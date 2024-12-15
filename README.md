@@ -23,9 +23,9 @@ I started by looking at if there were any existing enclosures for my Shapeoko, b
 
 I had done some research on which type joinery would be ideal for this sort of design. This wasn't a challenging task but I eventually just created my own version of lapped joinery since the outside surfaces need to be flush so panels can be easily mated to the frame. I also was aiming to have the design be made out of thin ⅛” material and milled using the stock ¼” endmill so anyone that got a Shapeoko 4 could easily throw a few panels on the machine and run of the cuts for a quick enclosure to get the machine up and going. I figure this would be a useful first cut for a beginner or a user in a rush that just needs a quickly deployable design. 
 
-![Screenshot 2024-10-17 213051](https://github.com/user-attachments/assets/f40d5ac4-2b82-4b25-96bd-ac58247cd99c)
+<img src="https://github.com/user-attachments/assets/f40d5ac4-2b82-4b25-96bd-ac58247cd99c" width="200">
 
 To finish off my design I added ribs on the inside for support and added dogbones on the joinery so the pieces would nicely fit together. With this the first version is complete, of course I am still in the process of improving the design and documenting everything on github for others to use. In reflection I had done external research on the proper joinery to use and if there was already a solution like this that existed. In closing here is the current design 
 
-![Screenshot 2024-11-26 120305](https://github.com/user-attachments/assets/82ea135a-8a22-4951-9fa7-c02061df3550)
+<img src="https://github.com/user-attachments/assets/82ea135a-8a22-4951-9fa7-c02061df3550" width="200">
 
