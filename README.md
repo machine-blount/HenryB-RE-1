@@ -1,4 +1,4 @@
-#SRM-20
+# SRM-20
 ***bringing a forgotten machine back to life***
 
 The SRM-20 is an isolation milling machine that remained unused for most of my time at The Delta School. I have always wanted to use this machine to make prototype PCB’s, but never got the chance to since most of the software is deprecated and the machine had some issues in the hardware. 
@@ -9,9 +9,9 @@ As a part of my subtractive manufacturing resident expert I wanted to fix this m
 
 By experimenting with the software and continuing to search for any online resources I was successfully able to mill out a line test and custom design from Kicad later on. 
 
-<img src="https://github.com/user-attachments/assets/fd20dfd2-844f-4e72-ab47-ecdbe2551df3" width="250">
+<img src="https://github.com/user-attachments/assets/6a4398fb-dfa1-4345-9407-4cf2aaed79aa" width="250">
 
-#Frameoko 
+# Frameoko 
 ***Probably the first open source Shapeoko 4 enclosure that can be milled by the same Shapeoko 4***
 
 This year I have been looking to upgrade my CNC setup, in the past I just relied on a shop vac for all of the sawdust, and whatever other material byproduct. This proved difficult for the most part since the shop vac would often fail to up material sometimes resulting in compressed saw dust on the v rails which would disrupt the shapeoko’s travel. This is especially the case if your machine is near other shop tools where sawdust can be ejected right onto your CNC’s gantries and other useful parts.
