@@ -5,18 +5,18 @@ The SRM-20 is an isolation milling machine that remained unused for most of my t
 
 As a part of my subtractive manufacturing resident expert I wanted to fix this machine to accept Kicad files and mill them out on a standard board of FR-4 copper clad. Doing this required me to sift through as much SRM-20 documentation as possible to find anything that was relevant to my main goals. In the process I found a program called Mods.CE which is a node based editor for CNC machines like laser cutters and isolation mills like the SRM-20. 
 
-![Screenshot 2024-11-26 115709](https://github.com/user-attachments/assets/1247dede-ea45-4498-b154-6e804b7556ee)
+<img src="https://github.com/user-attachments/assets/1247dede-ea45-4498-b154-6e804b7556ee" width="200">
 
 By experimenting with the software and continuing to search for any online resources I was successfully able to mill out a line test and custom design from Kicad later on. 
 
-![PXL_20230625_150715272](https://github.com/user-attachments/assets/fd20dfd2-844f-4e72-ab47-ecdbe2551df3)
+<img src="https://github.com/user-attachments/assets/fd20dfd2-844f-4e72-ab47-ecdbe2551df3" width="200">
 
 #Frameoko 
 ***Probably the first open source Shapeoko 4 enclosure that can be milled by the same Shapeoko 4***
 
 This year I have been looking to upgrade my CNC setup, in the past I just relied on a shop vac for all of the sawdust, and whatever other material byproduct. This proved difficult for the most part since the shop vac would often fail to up material sometimes resulting in compressed saw dust on the v rails which would disrupt the shapeoko’s travel. This is especially the case if your machine is near other shop tools where sawdust can be ejected right onto your CNC’s gantries and other useful parts.
 
- ![PXL_20240312_190908458](https://github.com/user-attachments/assets/3bfa7c13-dbe1-463f-aaec-7a71ca1bb33c)
+<img src="https://github.com/user-attachments/assets/3bfa7c13-dbe1-463f-aaec-7a71ca1bb33c" width="200">
 A desperate attempt to sweep sawdust off of the v-rails. 
 
 I started by looking at if there were any existing enclosures for my Shapeoko, but the only ones I could find were for Shapeoko XL and XXL’s. On top of this all of them required shop tools like table saws, hand routers, drills, and such. Because of the situation with my highschool, I lacked this equipment so I wanted an enclosure that could be milled just with my Shapeko alone and could be easily assembled and configurable for future requirements. 
